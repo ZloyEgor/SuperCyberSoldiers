@@ -1,0 +1,79 @@
+{
+com.badlogic.gdx.graphics.g2d.BitmapFont: {
+	DisposableDroidBB: {
+		file: DisposableDroidBB.fnt
+	}
+	font-export: {
+		file: font-export.fnt
+	}
+}
+com.badlogic.gdx.graphics.Color: {
+	MyGray: {
+		r: 0.21176471
+		g: 0.21176471
+		b: 0.21176471
+		a: 1
+	}
+	white: {
+		r: 0.99
+		g: 0.9867
+		b: 0.9867
+		a: 1
+	}
+	myBlack: {
+		r: 0
+		g: 0
+		b: 0
+		a: 0.68
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+	default: {
+		up: button_a
+		down: button_pressed_a
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.CheckBox$CheckBoxStyle: {
+	default: {
+		checkboxOn: checkbox_on
+		checkboxOff: checkbox_off
+		font: font-export
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
+	default: {
+		font: font-export
+	}
+	my: {
+		font: DisposableDroidBB
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Slider$SliderStyle: {
+	default-horizontal: {
+		knobOver: knob
+		knobDown: knob
+		background: slider
+		knob: knob
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: {
+	default: {
+		font: DisposableDroidBB
+		up: button_a
+		down: button_pressed_a
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.TextTooltip$TextTooltipStyle: {
+	default: {
+		label: default
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Window$WindowStyle: {
+	dialog: {
+		titleFont: DisposableDroidBB
+		titleFontColor: myBlack
+
+
+	}
+}
+}

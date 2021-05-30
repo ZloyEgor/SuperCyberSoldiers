@@ -1,0 +1,201 @@
+
+atlas.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+RexStatesTextures(alter)
+  rotate: false
+  xy: 1, 104
+  size: 272, 406
+  orig: 272, 406
+  offset: 0, 0
+  index: -1
+RexStatesTextures
+  rotate: false
+  xy: 275, 104
+  size: 272, 406
+  orig: 272, 406
+  offset: 0, 0
+  index: -1
+background
+  rotate: false
+  xy: 549, 318
+  size: 300, 192
+  orig: 300, 192
+  offset: 0, 0
+  index: -1
+background1
+  rotate: false
+  xy: 549, 124
+  size: 300, 192
+  orig: 300, 192
+  offset: 0, 0
+  index: -1
+PunkStatesTexture
+  rotate: false
+  xy: 851, 321
+  size: 237, 189
+  orig: 237, 189
+  offset: 0, 0
+  index: -1
+PunkStatesTexture2
+  rotate: false
+  xy: 851, 130
+  size: 237, 189
+  orig: 237, 189
+  offset: 0, 0
+  index: -1
+PunkStatesTexture3
+  rotate: false
+  xy: 1090, 321
+  size: 237, 189
+  orig: 237, 189
+  offset: 0, 0
+  index: -1
+RossStatesTexture
+  rotate: false
+  xy: 1090, 121
+  size: 225, 198
+  orig: 225, 198
+  offset: 0, 0
+  index: -1
+RossStatesTexture2
+  rotate: false
+  xy: 1329, 312
+  size: 225, 198
+  orig: 225, 198
+  offset: 0, 0
+  index: -1
+buttons_pack
+  rotate: false
+  xy: 1, 42
+  size: 340, 60
+  orig: 340, 60
+  offset: 0, 0
+  index: -1
+ExploStatesTexture
+  rotate: false
+  xy: 1556, 282
+  size: 144, 228
+  orig: 144, 228
+  offset: 0, 0
+  index: -1
+ExploStatesTexture2
+  rotate: false
+  xy: 1702, 282
+  size: 144, 228
+  orig: 144, 228
+  offset: 0, 0
+  index: -1
+ShotgunStatesTexture
+  rotate: false
+  xy: 1848, 282
+  size: 120, 228
+  orig: 120, 228
+  offset: 0, 0
+  index: -1
+ShotgunStatesTexture2
+  rotate: false
+  xy: 1317, 82
+  size: 120, 228
+  orig: 120, 228
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 343, 9
+  size: 185, 93
+  orig: 185, 93
+  offset: 0, 0
+  index: -1
+samsung
+  rotate: false
+  xy: 1, 1
+  size: 165, 39
+  orig: 165, 39
+  offset: 0, 0
+  index: -1
+deadRex
+  rotate: false
+  xy: 549, 81
+  size: 162, 41
+  orig: 162, 41
+  offset: 0, 0
+  index: -1
+TurretStatesTexture
+  rotate: false
+  xy: 530, 4
+  size: 152, 75
+  orig: 152, 75
+  offset: 0, 0
+  index: -1
+TurretStatesTexture2
+  rotate: false
+  xy: 713, 47
+  size: 152, 75
+  orig: 152, 75
+  offset: 0, 0
+  index: -1
+openGameArt
+  rotate: false
+  xy: 1970, 457
+  size: 36, 53
+  orig: 36, 53
+  offset: 0, 0
+  index: -1
+grenade
+  rotate: false
+  xy: 1439, 273
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+hillTexture
+  rotate: false
+  xy: 168, 18
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+laser
+  rotate: false
+  xy: 851, 125
+  size: 23, 3
+  orig: 23, 3
+  offset: 0, 0
+  index: -1
+turretLaser
+  rotate: false
+  xy: 530, 100
+  size: 12, 2
+  orig: 12, 2
+  offset: 0, 0
+  index: -1
+slug
+  rotate: false
+  xy: 1317, 316
+  size: 8, 3
+  orig: 8, 3
+  offset: 0, 0
+  index: -1
+curtain
+  rotate: false
+  xy: 684, 74
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+punkLaser
+  rotate: false
+  xy: 1970, 454
+  size: 7, 1
+  orig: 7, 1
+  offset: 0, 0
+  index: -1
+rossShell
+  rotate: false
+  xy: 2008, 507
+  size: 5, 3
+  orig: 5, 3
+  offset: 0, 0
+  index: -1

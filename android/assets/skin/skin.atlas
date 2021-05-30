@@ -1,0 +1,62 @@
+
+skin.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+font-export
+  rotate: false
+  xy: 1, 333
+  size: 116, 117
+  orig: 116, 117
+  offset: 0, 0
+  index: -1
+DisposableDroidBB
+  rotate: false
+  xy: 1, 478
+  size: 506, 27
+  orig: 506, 27
+  offset: 0, 0
+  index: -1
+button_a
+  rotate: false
+  xy: 1, 273
+  size: 98, 58
+  orig: 98, 58
+  offset: 0, 0
+  index: -1
+button_pressed_a
+  rotate: false
+  xy: 1, 213
+  size: 98, 58
+  orig: 98, 58
+  offset: 0, 0
+  index: -1
+checkbox_off
+  rotate: false
+  xy: 119, 415
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+checkbox_on
+  rotate: false
+  xy: 1, 176
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+knob
+  rotate: false
+  xy: 165, 458
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+slider
+  rotate: false
+  xy: 1, 452
+  size: 162, 24
+  orig: 162, 24
+  offset: 0, 0
+  index: -1
